@@ -24,7 +24,7 @@ Develop a relational database and reporting solution to:
 - **Normalization:** All tables were normalized to **Third Normal Form (3NF)** to reduce redundancy.  
 - **Schema & ERD:** Designed using MySQL Workbench / draw.io.  
 
-*(Insert ERD diagram here → `<img width="1419" height="1125" alt="image" src="https://github.com/user-attachments/assets/022d2fe5-1af6-45b9-8bab-276d5a17a9a9" />`)*  
+*(Insert ERD diagram here → `<img width="857" height="720" alt="image" src="https://github.com/user-attachments/assets/94b21a1e-13f6-4abd-a51b-4fa18feeb5ed" />`)*  
 
 ---
 
@@ -43,7 +43,7 @@ The Power BI dashboard highlights:
 - **Revenue analysis** (billing by department, payment status)  
 - **Doctor workload** (number of patients per doctor)  
 
-*(Insert dashboard screenshot here → `<img width="1285" height="536" alt="image" src="https://github.com/user-attachments/assets/c593f54c-7ea6-4190-8087-6d3b9f08993f" />`)*  
+*(Insert dashboard screenshot here → `<img width="1844" height="747" alt="image" src="https://github.com/user-attachments/assets/f9454d98-a6ad-4a6d-b6b0-afda818f9b05" />`)*  
 
 ---
 
