@@ -24,7 +24,7 @@ Develop a relational database and reporting solution to:
 - **Normalization:** All tables were normalized to **Third Normal Form (3NF)** to reduce redundancy.  
 - **Schema & ERD:** Designed using MySQL Workbench / draw.io.  
 
-*(Insert ERD diagram here → (`Entity Relationship Diagram.jpg`)*  
+*(Insert ERD diagram here → (`<img width="857" height="720" alt="image" src="https://github.com/user-attachments/assets/d02d1192-38fa-4c57-90de-206180321583" />`)*  
 
 ---
 
@@ -42,7 +42,7 @@ The Power BI dashboard highlights:
 - **Sum of Paid Canceld**  
 - **Sum of Paid by Year**
 
-*(Insert dashboard screenshot here → (`Power BI.png`)*  
+*(Insert dashboard screenshot here → (`<img width="1844" height="747" alt="image" src="https://github.com/user-attachments/assets/2508c346-2560-4323-9471-0f18508d7853" />`)*  
 
 ---
 
