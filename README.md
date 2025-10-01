@@ -24,7 +24,7 @@ Develop a relational database and reporting solution to:
 - **Normalization:** All tables were normalized to **Third Normal Form (3NF)** to reduce redundancy.  
 - **Schema & ERD:** Designed using MySQL Workbench / draw.io.  
 
-*(Insert ERD diagram here → (`[[<img width="857" height="720" alt="image" src="https://github.com/user-attachments/assets/94b21a1e-13f6-4abd-a51b-4fa18feeb5ed" />](https://github.com/BassamKasar/Database-Project-Hospital-Management-System/blob/main/Entity%20Relationship%20Diagram.jpg?raw=true)](https://github.com/BassamKasar/Database-Project-Hospital-Management-System/blob/main/Entity%20Relationship%20Diagram.jpg)`)*  
+*(Insert ERD diagram here → (`Entity Relationship Diagram.jpg`)*  
 
 ---
 
@@ -42,7 +42,7 @@ The Power BI dashboard highlights:
 - **Sum of Paid Canceld**  
 - **Sum of Paid by Year**
 
-*(Insert dashboard screenshot here → (`[[<img width="1844" height="747" alt="image" src="https://github.com/user-attachments/assets/f9454d98-a6ad-4a6d-b6b0-afda818f9b05" />](https://github.com/BassamKasar/Database-Project-Hospital-Management-System/blob/main/Power%20BI.png?raw=true)](https://github.com/BassamKasar/Database-Project-Hospital-Management-System/blob/main/Power%20BI.png)`)*  
+*(Insert dashboard screenshot here → (`Power BI.png`)*  
 
 ---
 
